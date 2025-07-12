@@ -44,3 +44,9 @@ Feel free to connect with me here:
 ![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushilad24&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khushi-lad.khushi-lad)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>

@@ -36,6 +36,6 @@ Feel free to connect with me here:
 
 ## 📈 GitHub Stats
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi-lad&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushilad24&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khushi-lad.khushi-lad)

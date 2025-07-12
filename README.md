@@ -4,9 +4,8 @@ I am Khushi Lad, a passionate Computer Science graduate and a tech enthusiast. I
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushilad24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushilad24/)](https://www.linkedin.com/in/khushilad24/)
-[![Instagram Badge](https://img.shields.io/badge/-khushi.lad-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/khushi.lad)](https://instagram.com/khushi.lad)
 [![Gmail Badge](https://img.shields.io/badge/-khushiklad24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushiklad24@gmail.com)](mailto:khushiklad24@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-khushilad24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushilad24/)](https://www.linkedin.com/in/khushilad24/)
 [![CodeChef Badge](https://img.shields.io/badge/-khushiklad24-black?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/khushiklad24)](https://www.codechef.com/users/khushiklad24)
 
 ---

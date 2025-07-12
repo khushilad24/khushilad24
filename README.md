@@ -9,6 +9,8 @@ Feel free to connect with me here:
 [![CodeChef Badge](https://img.shields.io/badge/-khushiklad24-black?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/khushiklad24)](https://www.codechef.com/users/khushiklad24)
 
 ---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khushi-lad.khushi-lad)
+
 
 ## ⚡ Technologies
 
@@ -45,11 +47,36 @@ Feel free to connect with me here:
 </div>
 
 
-## 📈 GitHub Stats
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushilad24&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+<details>
+  <summary><b>📊 My GitHub Stats</b></summary>
+  <br />
+  <!-- Main GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushilad24&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushilad24&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</details>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khushi-lad.khushi-lad)
+<details>
+  <summary><b>🔥 GitHub Streak</b></summary>
+  <br />
+  <img height="180em" src="https://streak-stats.demolab.com?user=khushilad24&hide_border=true&theme=tokyonight" />
+</details>
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=khushilad24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🙌 Like my work?
+
+If you find my work helpful, feel free to star ⭐ my repositories and connect with me! Let’s build something awesome together.
+
+
 
 
 

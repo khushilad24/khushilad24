@@ -38,6 +38,12 @@ Feel free to connect with me here:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 
 ## 📈 GitHub Stats
 
@@ -45,8 +51,6 @@ Feel free to connect with me here:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khushi-lad.khushi-lad)
 
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
+
